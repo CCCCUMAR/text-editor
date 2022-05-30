@@ -55,7 +55,8 @@ This is the Github page for this [project](https://github.com/CCCCUMAR/text-edit
 
 My Email is [umar-19@live.com](umar-19@live.com)
 
-Here is the Deployed [Application]()
+Here is the Deployed [Application](
+https://git.heroku.com/fierce-badlands-43359.git)
 
 
 
